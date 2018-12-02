@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service Auto Client</string>
+    <string name="complete_all_fields">Complete all fields</string>
+    <string name="request_sent">The issue has been sent</string>
+</resources>
